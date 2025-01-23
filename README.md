@@ -11,7 +11,7 @@
 
 
 ## Contact Me 📨
-![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red=mailto:olivebel04@gmail.com?subject=[Github]) ![Static Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red=mailto:olivebel04@gmail.com?subject=[Github])](mailto:olivebel04@gmail.com) ![Static Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge)
 
 
 
