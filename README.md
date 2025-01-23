@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Olive!
+
+## A bit About Me...
+- I'm currently pursuing my Informatics B.S. at Indiana University, Bloomington
+- I have a passion for web and game design
+- I'm currently learning how to work with Blender and making games in UnrealEngine
+- Fun fact: My favorite video game series is Dark Souls 🐺
+
+
 
 <!--
 **0lib3/0lib3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
