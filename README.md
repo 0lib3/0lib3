@@ -3,7 +3,8 @@
 ## A bit About Me...
 - I'm currently pursuing my Informatics B.S. at Indiana University, Bloomington
 - I have a passion for web and game design
-- I'm currently learning how to work with Blender and making games in UnrealEngine
+- I'm currently learning how to work with Blender and making games in ![Static Badge](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine)
+
 - Fun fact: My favorite video game series is Dark Souls 🐺
 
 
