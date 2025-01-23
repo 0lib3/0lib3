@@ -11,7 +11,13 @@
 
 
 ## Contact Me 📨
-[![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red=mailto:olivebel04@gmail.com?subject=[Github])](mailto:olivebel04@gmail.com) ![Static Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red=mailto:olivebel04@gmail.com?subject=[Github])](mailto:olivebel04@gmail.com) [![Static Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge)](mailto:olibelch@iu.edu) ![Static Badge](https://img.shields.io/badge/discord-olibe-gray?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2)
+
+## Check Out My Other Socials!📲
+[![Static Badge](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olivebelcher_/) [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olive-belcher-37704820a/)
+
+
+
 
 
 
