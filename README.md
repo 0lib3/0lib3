@@ -2,9 +2,9 @@
 
 ## A bit About Me...
 - I'm currently pursuing my Informatics B.S. at Indiana University, Bloomington
-- I have a passion for web and game design
+- I have a passion for game design and data
 - I love to teach myself new things!
-- I'm currently learning how to work with Blender and making games in ![Static Badge](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine)
+- I'm currently learning more about ETL pipelines, check out [my repo!](https://github.com/0lib3/crypto_gaming_pipeline)
 - Fun fact: My favorite video game series is Dark Souls 🐺
 
 ## Languages I Work In 💻
