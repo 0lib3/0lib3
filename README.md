@@ -1,7 +1,7 @@
 ## Hello, World! 👋 I'm Olive
 
 ## A bit About Me...
-- I'm currently pursuing my Informatics B.S. at Indiana University, Bloomington
+- I recently graduated with an Informatics B.S. and a minor in Computer Science at Indiana University, Bloomington
 - I have a passion for game design and data
 - I love to teach myself new things!
 - I'm currently learning more about ETL pipelines, check out [my repo!](https://github.com/0lib3/crypto_gaming_pipeline)
